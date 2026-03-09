@@ -16,3 +16,5 @@ function stringPermutations(str) {
     return [...new Set(result)].sort();
 }
 console.log(stringPermutations("abc"));
+
+// teszt komment conflict létrehozásához
