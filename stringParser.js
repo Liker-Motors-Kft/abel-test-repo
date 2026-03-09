@@ -1,4 +1,3 @@
-// stringParser.js
 function stringPermutations(str) {
     if (str.length === 1) return [str];
     
